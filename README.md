@@ -20,3 +20,8 @@
 ``` bash
     git remote add origin https://github.com/TomasAB1999/so-t4st.git
 ```
+
+- Agregamos un archivo llamado style.css y otro llamado app.js
+``` bash
+    
+```
